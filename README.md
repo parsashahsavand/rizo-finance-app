@@ -6,7 +6,7 @@
 
 | | | |
 |---|---|---|
-| ![S1](https://raw.githubusercontent.com/parsashahsavand/rizo-finance-app/main/Rizo/screenshots/S1.jpg) | ![S2](https://raw.githubusercontent.com/parsashahsavand/rizo-finance-app/main/Rizo/screenshots/S2.jpg) | ![S3](https://raw.githubusercontent.com/parsashahsavand/rizo-finance-app/main/Rizo/screenshots/S3.jpg) |
+| ![S1](https://raw.githubusercontent.com/parsashahsavand/rizo-finance-app/main/screenshots/S1.jpg) | ![S2](https://raw.githubusercontent.com/parsashahsavand/rizo-finance-app/main/Rizo/screenshots/S2.jpg) | ![S3](https://raw.githubusercontent.com/parsashahsavand/rizo-finance-app/main/Rizo/screenshots/S3.jpg) |
 | ![S4](https://raw.githubusercontent.com/parsashahsavand/rizo-finance-app/main/Rizo/screenshots/S4.jpg) | ![S5](https://raw.githubusercontent.com/parsashahsavand/rizo-finance-app/main/Rizo/screenshots/S5.jpg) | ![S6](https://raw.githubusercontent.com/parsashahsavand/rizo-finance-app/main/Rizo/screenshots/S6.jpg) |
 
 ## ✨ Features
